@@ -1,0 +1,23 @@
+body{
+	margin-top: 80px;
+}
+
+h2 {
+	margin: 50px 0 20px;
+}
+
+hr {
+	margin-top: 3rem;
+}
+
+img {
+	max-width: 500px;
+}
+
+.portfolio-item {
+	margin-bottom: 30px;
+}
+
+.card {
+	border: none;
+}
